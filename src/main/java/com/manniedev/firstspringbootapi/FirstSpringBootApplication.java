@@ -1,4 +1,4 @@
-package com.manniedev.firstspringboot;
+package com.manniedev.firstspringbootapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

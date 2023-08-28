@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.manniedev</groupId>
-	<artifactId>first-spring-boot</artifactId>
+	<artifactId>firstspringbootapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>first-spring-boot</name>
+	<name>firstspringbootapi</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

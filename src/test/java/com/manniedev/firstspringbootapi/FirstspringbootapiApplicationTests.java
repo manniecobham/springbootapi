@@ -1,10 +1,10 @@
-package com.manniedev.firstspringboot;
+package com.manniedev.firstspringbootapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstSpringBootApplicationTests {
+class FirstspringbootapiApplicationTests {
 
 	@Test
 	void contextLoads() {
