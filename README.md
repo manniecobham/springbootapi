@@ -15,7 +15,7 @@ To run this Spring Boot application, you'll need to have Java and Maven installe
 
 ```sh
 # Clone this repository to your local machine:
-git clone https://github.com/your-username/first-spring-boot-api.git
+git clone https://github.com/manniecobham/springbootapi.git
 
 # Navigate to the project directory:
 cd first-spring-boot-api
@@ -27,10 +27,11 @@ The application will start, and you can access it at http://localhost:8080.
 
 ## Usage
 
-This application provides a simple API endpoint to check the status of a website. You can use tools like `curl` or Postman to interact with the API. Here's an example using `curl`:
+This application provides a simple API endpoint to check the status of a website. You can use tools like `curl` or Postman to interact with the API. Here`s an example using `curl`:
 
 ```sh
 curl http://localhost:8080/check?url=https://www.example.com
+
 ```
 
 ## Endpoints
